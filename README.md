@@ -24,6 +24,10 @@ Clone this repo and compile from source:
 	$ cd dmenu-geir
 	$ sudo make clean install
 
+## OpenBSD:
+
+	$ git checkout openbsd
+
 ## For Arch users:
 
 Download the file PKGBUILD, create and install the package:
