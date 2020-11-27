@@ -29,7 +29,7 @@ Clone this repo and compile from source:
 Download the file PKGBUILD, create and install the package:
 
 	$ wget https://raw.githubusercontent.com/geirda/dmenu-geir/main/PKGBUILD
-	$ makepkg -i
+	$ makepkg -ci
 
 Precompiled packages for Arch: https://github.com/geirda/Arch/tree/master/suckless/dmenu/
 
