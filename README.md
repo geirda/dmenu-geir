@@ -26,7 +26,10 @@ Clone this repo and compile from source:
 
 ## OpenBSD:
 
+	$ git clone https://github.com/geirda/dmenu-geir.git
+	$ cd dmenu-geir
 	$ git checkout openbsd
+	$ doas make clean install
 
 ## For Arch users:
 
